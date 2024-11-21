@@ -65,4 +65,5 @@ Setelah pengguna memilih untuk tidak menambah data lagi, program menampilkan daf
 
 ### Flowchart 
 
-![flowchart 6](https://github.com/user-attachments/assets/a03016a8-8f17-4241-a1ab-3d5d69fbcc4e)
+![image](https://github.com/user-attachments/assets/a2e8dae6-b982-4e92-95c0-ca631c984343)
+
